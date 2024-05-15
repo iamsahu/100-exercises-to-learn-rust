@@ -24,7 +24,7 @@ If we run:
 ```rust
 let mut s = String::with_capacity(5);
 s.push_str("Hello");
-```
+```          
 
 we'll get this scenario in memory:
 
